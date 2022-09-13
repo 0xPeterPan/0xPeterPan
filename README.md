@@ -2,7 +2,12 @@
 - 👀 I’m interested in Web dev and recently I got into Web 3.0
 - 🌱 I’m currently learning
 Solana dev after I have done some projects with Solidity on Ethereum samrt contracts - NFT collection - NFT game
-- 💞️ I’m looking to collaborate on Web 3.0 dev
+- 🥑 Actually, you're going to see 2 repos I did for Solana, one with Rust and the other was using Metaplex which made it super easy to create an NFT collection on Solana
+- 💞️ After that, I enjoyed designing and creating a DAO (fully operational: Gated membership community with an ERC-1155 NFT, Governance ERC-20 token, Voting on Proposals that are connected to self excuted smart contracts based on the voting results)
+All of this was possible using @thirdweb services.
+- 🥑 A few months ago, I've became an Advocate for The Graph Protocol and it's ecosystem
+and I'm still learning everyday something new
+
 - 📫 How to reach me
 I'm on Twitter @PeterPanYes
 
