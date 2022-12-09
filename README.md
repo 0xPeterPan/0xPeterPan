@@ -9,7 +9,7 @@ All of this was possible using @thirdweb SDK.
 and I'm still learning everyday something new
 
 - 📫 How to reach me
-I'm on Twitter @PeterPanYes ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPeterPanYes)
+I'm on Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/PeterPanYes?label=Ahmed%20Abdelmalek&style=social)
 
 <!---
 0xPeterPan/0xPeterPan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
