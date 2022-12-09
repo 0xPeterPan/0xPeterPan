@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterPanYes)](https://github.com/0xPeterPan/github-readme-stats)
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xPeterPan)](https://github.com/0xPeterPan/github-readme-stats)
