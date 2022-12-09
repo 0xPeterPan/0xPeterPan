@@ -15,3 +15,6 @@ I'm on Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/PeterPanY
 0xPeterPan/0xPeterPan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterPanYes)](https://github.com/0xPeterPan/github-readme-stats)
