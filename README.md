@@ -16,6 +16,10 @@ I'm on Twitter ![Twitter Follow](https://img.shields.io/twitter/follow/PeterPanY
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xPeterPan&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+--->
+
 ---
 [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xPeterPan&show_icons=true&theme=radical)](https://github.com/0xPeterPan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xPeterPan&layout=compact&theme=radical)](https://github.com/0xPeterPan/github-readme-stats)
